@@ -1,4 +1,4 @@
-const HOST = 'https://phunks.tfnlab.com'
+const HOST = 'https://v4phunks.tfnlab.com'
 
 module.exports = {
   HOST
